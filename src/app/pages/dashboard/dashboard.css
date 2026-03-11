@@ -1,0 +1,9 @@
+.dashboard {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.card {
+  width: 250px;
+}
